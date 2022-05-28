@@ -1,0 +1,15 @@
+{
+  "name": "vscode_a1",
+  "version": "1.0.0",
+  "description": "default",
+  "main": "3.modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "loadsh": "^0.0.4"
+  }
+}
